@@ -33,7 +33,10 @@ export default function Home() {
               Økt produktivitet i bedriften gjennom bedre helse og trivsel for
               ansatte
             </h1>
-            <form action="/index" className="py-10 flex justify-center">
+            <form
+              action="/https://fierce-teacher-9326.ck.page"
+              className="py-10 flex justify-center"
+            >
               <button
                 className="border bg-green-400 text-gray-50 text-xl p-2 font-sans hover:bg-green-500 active:bg-green-600"
                 type="submit"
