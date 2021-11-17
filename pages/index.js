@@ -34,7 +34,7 @@ export default function Home() {
               ansatte
             </h1>
             <form
-              action="/https://fierce-teacher-9326.ck.page"
+              action="https://fierce-teacher-9326.ck.page"
               className="py-10 flex justify-center"
             >
               <button
