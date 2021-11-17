@@ -1,5 +1,6 @@
 import Head from "next/head";
 import Image from "next/image";
+import Link from "next/link";
 import "tailwindcss/tailwind.css";
 import good from "../public/good.jpg";
 
@@ -22,9 +23,9 @@ export default function Home() {
       </Head>
       <main className="max-w-6xl mx-auto">
         <nav className="py-5">
-          <a href="/" className="font-sans text-2xl">
+          <Link href="/" className="font-sans text-2xl">
             Bjørkevoll Helse
-          </a>
+          </Link>
         </nav>
         <section className="grid grid-cols-1 md:grid-cols-2 mx-auto py-20">
           <div className="flex flex-col justify-center mx-5">
