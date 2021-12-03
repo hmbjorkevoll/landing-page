@@ -30,8 +30,8 @@ export default function Home() {
         <section className="grid grid-cols-1 md:grid-cols-2 mx-auto py-20">
           <div className="flex flex-col justify-center mx-5">
             <h1 className="text-center font-sans text-5xl text-green-900 font-semibold py-10">
-              Økt produktivitet i bedriften gjennom bedre helse og trivsel for
-              ansatte
+              Økt produktivitet i bedriften gjennom ledelse som fokuserer på
+              helse
             </h1>
             <form
               action="https://fierce-teacher-9326.ck.page"
@@ -46,8 +46,9 @@ export default function Home() {
               </button>
             </form>
             <h3 className="text-center font-sans">
-              Book en gratis konsultasjon, og få nyttig info sendt rett i
-              innboksen
+              Book en gratis konsultasjon. Sammen finner vi ut hvordan dere kan
+              bruke ledelse til å bedre helsen til ansatte (og ledere) så dere
+              øker produktiviteten og tjener mer penger!
             </h3>
           </div>
           <div className="flex justify-center py-10">
